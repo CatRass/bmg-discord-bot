@@ -11,7 +11,8 @@ public class Program
 		_client = new DiscordSocketClient();
 		_client.Log += Log;
 		await _client.LoginAsync(TokenType.Bot,
-			Environment.GetEnvironmentVariable("DiscordToken"));
+		// Added Token	- Darrel
+			Environment.GetEnvironmentVariable("ODc1NTUwNzY4MjY1MDU2Mjc2.YRXKMg.TTuZId0WfyQlITwQ4Cl2tN4YToo"));
 		await _client.StartAsync();
 
 		// Block this task until the program is closed.
@@ -35,7 +36,8 @@ public class Program
 		_client = new DiscordSocketClient();
 		_client.Log += Log;
 		await _client.LoginAsync(TokenType.Bot,
-			Environment.GetEnvironmentVariable("DiscordToken"));
+		// Added Token	- Darrel
+			Environment.GetEnvironmentVariable("ODc1NTUwNzY4MjY1MDU2Mjc2.YRXKMg.TTuZId0WfyQlITwQ4Cl2tN4YToo"));
 		await _client.StartAsync();
 
 		// Block this task until the program is closed.
