@@ -1,6 +1,4 @@
-                           |  
-:-------------------------:|:-------------------------:
-![BMG Logo](bmg-logo.png "BMG Logo") |  ![BMG Bot](bmg-bot.png "BMG Bot")
+![BMG Logo](bmg-logo.png "BMG Logo") ![BMG Bot](bmg-bot.png "BMG Bot")
 
 # Bacchus Marsh Grammar Discord Server Bot
 This is a Discord Bot created by Tristen L. and Darrel M.
